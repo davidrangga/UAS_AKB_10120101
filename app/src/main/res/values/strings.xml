@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UASAKB_10120101</string>
+    <string name="title_home">Profile</string>
+    <string name="title_note">Catatan</string>
+    <string name="title_information">Informasi</string>
+    <string name="title_activity_splash_screen">10120101 DAVID RANGGA WIJAYA</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
